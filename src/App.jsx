@@ -8,7 +8,6 @@ const students = ['Ahmad','Ali','Husna','Abdullah','Sarah','Zainab','Raghad','Sa
   return (
     <>
       <Button></Button>
-      <StudentsList/>
     <h1>Hello world!</h1>
     <Button/>
      <StudentsList/>
